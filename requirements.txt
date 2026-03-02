@@ -1,0 +1,5 @@
+scapy==2.5.0
+pandas==2.2.0
+scikit-learn==1.4.0
+pyarrow==15.0.0
+fastparquet==2024.2.0
