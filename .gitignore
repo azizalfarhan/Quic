@@ -1,4 +1,17 @@
+# Python
 .venv/
 __pycache__/
 *.pyc
-data/raw_pcap/
+*.pyo
+*.egg-info/
+
+# Project artifacts — distributed via Google Drive ZIP, not Git
+data/
+models/artifacts/
+plots/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
